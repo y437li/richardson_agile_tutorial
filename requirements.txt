@@ -39,7 +39,7 @@ msrest==0.6.16
 numpy==1.19.0
 oauthlib==3.1.0
 pandas==1.0.5
-Pillow==7.1.2
+Pillow==9.3.0
 pycparser==2.20
 pycurl==7.43.0.5
 pyparsing==2.4.7
